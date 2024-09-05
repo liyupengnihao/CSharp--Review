@@ -1,0 +1,7 @@
+D:\C#语言VS学前练习\大复习02\APIAndPathOfClass\bin\Debug\APIAndPathOfClass.exe.config
+D:\C#语言VS学前练习\大复习02\APIAndPathOfClass\bin\Debug\APIAndPathOfClass.exe
+D:\C#语言VS学前练习\大复习02\APIAndPathOfClass\bin\Debug\APIAndPathOfClass.pdb
+D:\C#语言VS学前练习\大复习02\APIAndPathOfClass\obj\Debug\APIAndPathOfClass、学习内容与目标.csproj.AssemblyReference.cache
+D:\C#语言VS学前练习\大复习02\APIAndPathOfClass\obj\Debug\APIAndPathOfClass、学习内容与目标.csproj.CoreCompileInputs.cache
+D:\C#语言VS学前练习\大复习02\APIAndPathOfClass\obj\Debug\APIAndPathOfClass.exe
+D:\C#语言VS学前练习\大复习02\APIAndPathOfClass\obj\Debug\APIAndPathOfClass.pdb

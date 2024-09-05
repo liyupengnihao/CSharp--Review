@@ -1,0 +1,10 @@
+D:\C#语言VS学前练习\大复习02\07\bin\Debug\07.exe.config
+D:\C#语言VS学前练习\大复习02\07\bin\Debug\07.exe
+D:\C#语言VS学前练习\大复习02\07\bin\Debug\07.pdb
+D:\C#语言VS学前练习\大复习02\07\obj\Debug\07INI读写，序列化反序列化.csproj.AssemblyReference.cache
+D:\C#语言VS学前练习\大复习02\07\obj\Debug\_07.Properties.Resources.resources
+D:\C#语言VS学前练习\大复习02\07\obj\Debug\07INI读写，序列化反序列化.csproj.GenerateResource.cache
+D:\C#语言VS学前练习\大复习02\07\obj\Debug\07INI读写，序列化反序列化.csproj.CoreCompileInputs.cache
+D:\C#语言VS学前练习\大复习02\07\obj\Debug\07.exe
+D:\C#语言VS学前练习\大复习02\07\obj\Debug\07.pdb
+D:\C#语言VS学前练习\大复习02\07\obj\Debug\_07.Form1.resources

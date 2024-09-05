@@ -1,0 +1,10 @@
+D:\C#语言VS学前练习\大复习02\09\bin\Debug\09.exe.config
+D:\C#语言VS学前练习\大复习02\09\bin\Debug\09.exe
+D:\C#语言VS学前练习\大复习02\09\bin\Debug\09.pdb
+D:\C#语言VS学前练习\大复习02\09\obj\Debug\09异步通讯、委托简介.csproj.AssemblyReference.cache
+D:\C#语言VS学前练习\大复习02\09\obj\Debug\_09.Form1.resources
+D:\C#语言VS学前练习\大复习02\09\obj\Debug\_09.Properties.Resources.resources
+D:\C#语言VS学前练习\大复习02\09\obj\Debug\09异步通讯、委托简介.csproj.GenerateResource.cache
+D:\C#语言VS学前练习\大复习02\09\obj\Debug\09异步通讯、委托简介.csproj.CoreCompileInputs.cache
+D:\C#语言VS学前练习\大复习02\09\obj\Debug\09.exe
+D:\C#语言VS学前练习\大复习02\09\obj\Debug\09.pdb
